@@ -1,0 +1,57 @@
+
+a:active{ 
+    color: rgb(10, 52, 111);
+}
+
+a:any-link{
+    color: rgb(10, 52, 111);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color:rgb(246, 240, 232)
+}
+
+#Red { 
+    margin-left: 300px;
+    margin-right: 300px;
+    color: rgb(10, 52, 111);
+    font-family: "Syne", sans-serif;
+   
+}
+
+#Nombre{
+    text-align: center;
+    color: rgb(10, 52, 111);
+    font-family:  "Syne", sans-serif;
+}
+
+#Carrera {
+    text-align: center;
+    color: rgb(10, 52, 111);
+    font-family:  "Syne", sans-serif;   
+}
+
+#Dospuntos {
+    font-family:  "Syne", sans-serif;
+    color: rgb(10, 52, 111);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+#Data{
+text-align: justify;
+font-family: "Lora", serif;
+margin-left: 300px;
+margin-right: 300px;
+}
+
+#Fotito {
+width: 300px; 
+height: 300px;
+border-radius: 50%;
+margin: 20px;
+margin-left: 570px;
+}
